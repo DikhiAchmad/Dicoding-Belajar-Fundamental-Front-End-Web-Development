@@ -1,5 +1,5 @@
 # Dicoding: Belajar Fundamental Front-End Web Development
-<h3>Link</h3>
+<h3>Konsep Design</h3>
 <ul>
   <li><a href="https://www.figma.com/file/u0Xfpzgj2GjQuHx7y87SOu/Cake?node-id=0%3A1">Figma</a></li>
 </ul>
